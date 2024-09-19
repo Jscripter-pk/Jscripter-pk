@@ -15,11 +15,11 @@ I'm currently learning about [topics you’re exploring, e.g., machine learning,
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jscripter-pk&show_icons=true&theme=radical)
 
 
 ## 💬 Let's Connect!
 
-Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/islam-kiani-615553166/))
+Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/islam-kiani-615553166])
 
 Thanks for visiting my profile! 🚀
