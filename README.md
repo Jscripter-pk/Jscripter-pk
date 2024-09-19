@@ -7,15 +7,15 @@ Welcome to my GitHub profile! I'm a Senior Frontend Engineer based in Pakistan. 
 - **Languages:**  JavaScript, Typescript
 - **Frameworks:** React, React Native, Nextjs, ExpressJs, Tailwindcss, Jest
 - **Tools:** Git, Docker, Firebase, 
-- **Databases:** MySQL, MongoDB, [other databases you use]
+- **Databases:** Postgres, MongoDB, Firebase, RealmDB, Sqlite
 
 ## 🌱 Current Learning
 
-I'm currently learning about [topics you’re exploring, e.g., machine learning, cloud computing].
+I'm currently learning about [topics you’re exploring, e.g., UX, cloud, Backend].
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jscripter-pk&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jscripter-pk&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 ## 💬 Let's Connect!
