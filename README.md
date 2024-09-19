@@ -15,7 +15,7 @@ I'm currently learning about [topics you’re exploring, e.g., UX, cloud, Backen
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jscripter-pk&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jscripter-pk&show_icons=true&theme=radical&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
 
 
 ## 💬 Let's Connect!
