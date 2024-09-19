@@ -1,12 +1,12 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Islam Kiani
 
-Welcome to my GitHub profile! I'm a [Your Job Title/Profession] based in [Your Location]. I love coding and sharing my knowledge with the community.
+Welcome to my GitHub profile! I'm a Senior Frontend Engineer based in Pakistan. I love coding and sharing my knowledge with the community.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, [other languages you know]
-- **Frameworks:** React, Django, [other frameworks you use]
-- **Tools:** Git, Docker, [other tools you’re familiar with]
+- **Languages:**  JavaScript, Typescript
+- **Frameworks:** React, React Native, Nextjs, ExpressJs, Tailwindcss, Jest
+- **Tools:** Git, Docker, Firebase, 
 - **Databases:** MySQL, MongoDB, [other databases you use]
 
 ## 🌱 Current Learning
@@ -20,6 +20,6 @@ I'm currently learning about [topics you’re exploring, e.g., machine learning,
 
 ## 💬 Let's Connect!
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Twitter](https://twitter.com/yourprofile).
+Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/islam-kiani-615553166/))
 
 Thanks for visiting my profile! 🚀
