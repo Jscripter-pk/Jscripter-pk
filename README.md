@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Islam Kiani
 
-Welcome to my GitHub profile! I'm a Senior Frontend Engineer based in Pakistan. I love coding and sharing my knowledge with the community.
+Welcome to my GitHub profile! I'm a **Senior Frontend Engineer** based in Pakistan. I focus on creating user-friendly and efficient web and mobile applications applications. I enjoy coding and sharing my knowledge with others in the tech community.
 
 ## 🔧 Technologies & Tools
 
