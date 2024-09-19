@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a Senior Frontend Engineer based in Pakistan. 
 
 ## 🔧 Technologies & Tools
 
-- **Languages:**  JavaScript, Typescript
-- **Frameworks:** React, React Native, Nextjs, ExpressJs, Tailwindcss, Jest
-- **Tools:** Git, Docker, Firebase, 
+- **Languages:**  JavaScript, Typescript, HTML5, CSS3
+- **Frameworks:** React, React Native, Nextjs, ExpressJs, Tailwindcss, Jest, Playwright
+- **Tools:** Git, Docker, Firebase, Google Analytics, Code Push
 - **Databases:** Postgres, MongoDB, Firebase, RealmDB, Sqlite
 
 ## 🌱 Current Learning
