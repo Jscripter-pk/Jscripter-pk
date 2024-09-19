@@ -20,6 +20,6 @@ I'm currently learning about [topics you’re exploring, e.g., UX, cloud, Backen
 
 ## 💬 Let's Connect!
 
-Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/islam-kiani-615553166])
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/islam-kiani-615553166)
 
 Thanks for visiting my profile! 🚀
