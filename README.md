@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! I'm a **Senior Frontend Engineer** based in Pakistan. I focus on creating user-friendly and efficient web and mobile applications applications. I enjoy coding and sharing my knowledge with others in the tech community.
 
+## Social handles
+- **Instagram:** [@enginerd_96](https://www.instagram.com/enginerd_96/)
+- **Threads:** [@enginerd_96](https://www.threads.com/@enginerd_96)
+- **LinkedIn:** [Islam Kiani](https://www.linkedin.com/in/islam-kiani-615553166/)
+
+
 ## 🔧 Technologies & Tools
 
 - **Languages:**  JavaScript, Typescript, HTML5, CSS3
