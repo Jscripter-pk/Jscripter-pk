@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a **Senior Frontend Engineer** based in Pakist
 
 ## 🌱 Current Learning
 
-I'm currently learning about [topics you’re exploring, e.g., UX, cloud, Backend].
+I'm currently learning about UX, Cloud, Backend and System Design.
 
 ## 📈 GitHub Stats
 
