@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Senior Frontend Engineer** based in Pakist
 ## Social handles
 - **Instagram:** [@enginerd_96](https://www.instagram.com/enginerd_96/)
 - **Threads:** [@enginerd_96](https://www.threads.com/@enginerd_96)
-- **Tiktok:** [Islam Kiani](https://www.tiktok.com/@enginerd_96)
+- **Tiktok:** [@enginerd_96](https://www.tiktok.com/@enginerd_96)
 - **LinkedIn:** [Islam Kiani](https://www.linkedin.com/in/islam-kiani-615553166/)
 
 
