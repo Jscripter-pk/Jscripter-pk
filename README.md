@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a **Senior Frontend Engineer** based in Pakist
 - **Languages:**  JavaScript, Typescript, HTML5, CSS3
 - **Frameworks:** React, React Native, Nextjs, ExpressJs, Nestjs, Tailwindcss, Jest, Playwright, Styled-components, Storybook.js
 - **Tools:** Git, Docker, Google Analytics, Code Push
+- **Testing:** Jest, Playwright, React-testing-library, puppeteer
 - **Cloud:** AWS, Firebase, Github Actions, Vercel
 - **Databases:** Postgres, MongoDB, Firebase, RealmDB, Sqlite
 
